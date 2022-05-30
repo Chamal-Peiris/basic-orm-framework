@@ -3,7 +3,7 @@
 
 
 
-**  With this basic ORM framework, you can create tables in the database without the use of any SQL queries**
+**With this basic ORM framework, you can create tables in the database without the use of any SQL queries**
 
 
 ### How to use this repo?
