@@ -1,4 +1,4 @@
-# Simple Text Edior Application
+# Basic ORM Framework
 
 
 
